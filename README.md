@@ -14,6 +14,6 @@ $$
 This formula represents the average of a set of values.
 2. **Calculate the Standard Deviation (𝜎):**  
    The standard deviation (𝜎) is calculated as:  
-   $$
-   \sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} \left( x_i - \mu \right)^2}
-   $$
+$$
+\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} \left( x_i - \mu \right)^2}
+$$
