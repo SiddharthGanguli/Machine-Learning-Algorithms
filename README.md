@@ -17,5 +17,6 @@ This repository is dedicated to exploring and understanding Time Series Analysis
 2. **Calculate the Standard Deviation (𝜎):**
 
    The standard deviation (\(\Sigma\)) is calculated as:
-![Standard Deviation Equation]([https://quicklatex.com/cache3/b6/ql_989d7c7983775a1d36000f03dbc612b6_l3.pn](https://quicklatex.com/cache3/32/ql_86135f0a811484b2cbe5ab66c03dce32_l3.png))
+![Equation](https://quicklatex.com/cache3/32/ql_86135f0a811484b2cbe5ab66c03dce32_l3.png)
+
 
