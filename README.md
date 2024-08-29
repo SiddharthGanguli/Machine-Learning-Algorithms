@@ -18,6 +18,6 @@ This repository is dedicated to exploring and understanding Time Series Analysis
 
 ![Equation](https://quicklatex.com/cache3/32/ql_86135f0a811484b2cbe5ab66c03dce32_l3.png)
 
-3. Define Threshold and Identify Noisy Points
-   Let's assume that the threshold value is 3 so
-   Threshold=3X𝜎
+3. Define Threshold and Identify Noisy Points <br>
+   Let's assume that the threshold value is 3 so   
+   Threshold= 3 X 𝜎
