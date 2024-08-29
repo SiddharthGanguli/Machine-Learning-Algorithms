@@ -20,12 +20,10 @@ This repository is dedicated to exploring and understanding Time Series Analysis
 
 3. **Define Threshold and Identify Noisy Points** <br>
 
-   Let's assume that the threshold value is 3 so   
-$$
-\text{Threshold} = 3 \times \sigma
-$$
+   Let's assume that the threshold value is 3 so
+   Theshold Value= 3 X 𝜎
 
-4. **Identify noisy points by checking if the absolute difference from the mean exceeds the threshold or not :**
+5. **Identify noisy points by checking if the absolute difference from the mean exceeds the threshold or not :**
 
 $$
 \left| x_i - \mu \right| > \text{Threshold}
