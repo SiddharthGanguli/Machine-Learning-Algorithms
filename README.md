@@ -16,7 +16,7 @@ This repository is dedicated to exploring and understanding Time Series Analysis
 
 2. **Calculate the Standard Deviation (𝜎):**
 
-                  ![Equation](https://quicklatex.com/cache3/32/ql_86135f0a811484b2cbe5ab66c03dce32_l3.png)
+   ![Equation](https://quicklatex.com/cache3/32/ql_86135f0a811484b2cbe5ab66c03dce32_l3.png)
 
 3. **Define Threshold and Identify Noisy Points** <br>
 
@@ -24,6 +24,9 @@ This repository is dedicated to exploring and understanding Time Series Analysis
    Threshold= 3 X 𝜎
 4. **Identify noisy points by checking if the absolute difference from the mean exceeds the threshold or not :**
 
-                  ![Equation](https://quicklatex.com/cache3/65/ql_f5da48c32f9f3ccf70ce7a30fae7fc65_l3.png)
+$$
+\left| x_i - \mu \right| > \text{Threshold}
+$$
+
 
    
