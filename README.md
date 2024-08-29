@@ -17,6 +17,5 @@ This repository is dedicated to exploring and understanding Time Series Analysis
 2. **Calculate the Standard Deviation (𝜎):**
 
    The standard deviation (\(\Sigma\)) is calculated as:
-
-\colorbox{lightgray}{$\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} \left( x_i - \mu \right)^2}$}
+![Standard Deviation Equation](https://quicklatex.com/cache3/b6/ql_989d7c7983775a1d36000f03dbc612b6_l3.png)
 
