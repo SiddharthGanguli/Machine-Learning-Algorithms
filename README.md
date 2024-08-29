@@ -18,9 +18,7 @@ This repository is dedicated to exploring and understanding Time Series Analysis
 
    The standard deviation (\(\Sigma\)) is calculated as:
 
-   $$
-   \sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} \left( x_i - \mu \right)^2}
-   $$
+ ![Equation](https://latex.codecogs.com/svg.latex?\sigma%20=%20\sqrt{\frac{1}{N}%20\sum_{i=1}^{N}%20\left(%20x_i%20-%20\mu%20\right)^2})
 
    This measures the dispersion of the data points around the mean.
    \(E=mc^2\)，$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
