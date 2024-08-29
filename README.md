@@ -23,4 +23,5 @@ This repository is dedicated to exploring and understanding Time Series Analysis
    $$
 
    This measures the dispersion of the data points around the mean.
+   \(E=mc^2\)，$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
 
