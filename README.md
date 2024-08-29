@@ -7,13 +7,11 @@ For noise checking, I used statistical methods.
 Here are all the steps:
 
 1. **Calculate the Mean (𝜇):**  
-   The mean (𝜇) is calculated as:  
    $$
    \mu = \frac{1}{N} \sum_{i=1}^{N} x_i
    $$
 
 2. **Calculate the Standard Deviation (𝜎):**  
-   The standard deviation (𝜎) is calculated as:  
    $$
    \sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} \left( x_i - \mu \right)^2}
    $$
