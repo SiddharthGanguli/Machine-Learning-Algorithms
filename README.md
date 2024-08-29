@@ -33,5 +33,6 @@ Example:
 
 The data are : accx = [10, 12, 11, 13, 100, 12, 11, 12, 14, 13]
 
+Step 1:   ![Equation](https://quicklatex.com/cache3/1a/ql_5e7ab5292fd8ac647a3fc44ce727e01a_l3.png)
 
    
