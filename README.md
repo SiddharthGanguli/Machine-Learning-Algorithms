@@ -19,4 +19,4 @@ This repository is dedicated to exploring and understanding Time Series Analysis
    The standard deviation (\(\Sigma\)) is calculated as:
 
 
-![Equation](https://latex.codecogs.com/svg.latex?\sigma%20=%20\sqrt{\frac{1}{N}%20\sum_{i=1}^{N}%20\left(%20x_i%20-%20\mu%20\right)^2}&bg=black&fg=white)
+![Equation](https://latex.codecogs.com/png.latex?\sigma%20=%20\sqrt{\frac{1}{N}%20\sum_{i=1}^{N}%20\left(%20x_i%20-%20\mu%20\right)^2}&bg=black&fg=white)
