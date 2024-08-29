@@ -20,7 +20,7 @@ This repository is dedicated to exploring and understanding Time Series Analysis
 
 3. **Define Threshold and Identify Noisy Points** <br>
 
-   Let's assume that the threshold value is 3 so
+   Let's assume that the threshold value is 3 so   <br>
    Theshold Value= 3 X 𝜎
 
 5. **Identify noisy points by checking if the absolute difference from the mean exceeds the threshold or not :**
@@ -28,6 +28,10 @@ This repository is dedicated to exploring and understanding Time Series Analysis
 $$
 \left| x_i - \mu \right| > \text{Threshold}
 $$
+
+Example: 
+
+The data are : accx = [10, 12, 11, 13, 100, 12, 11, 12, 14, 13]
 
 
    
