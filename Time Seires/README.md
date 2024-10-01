@@ -6,7 +6,7 @@ This repository is dedicated to exploring and understanding Time Series Analysis
 
 1. **Calculate the Mean (𝜇):**
 
-   The mean (\(\mu\)) is calculated using the following formula:
+   The mean ((\mu)) is calculated using the following formula:
 
    $$
    \mu = \frac{1}{N} \sum_{i=1}^{N} x_i
