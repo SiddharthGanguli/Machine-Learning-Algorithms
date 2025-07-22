@@ -1,0 +1,8 @@
+echo "env/" >> .gitignore
+echo "*.csv" >> .gitignore
+echo "*.dylib" >> .gitignore
+echo "*.so" >> .gitignore
+echo "__pycache__/" >> .gitignore
+
+git add .gitignore
+git commit -am "Add .gitignore to exclude large files"
